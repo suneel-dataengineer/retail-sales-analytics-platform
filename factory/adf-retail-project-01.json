@@ -1,0 +1,9 @@
+{
+	"name": "adf-retail-project-01",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ba4ca0d7-d358-4949-8d51-aebb205cb1f5",
+		"tenantId": "36f9ddc9-45a3-4132-972c-034c9d6afb29"
+	}
+}
